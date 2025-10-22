@@ -1,6 +1,4 @@
 import React from 'react';
-import { motion } from 'framer-motion';
-import { Download, WifiOff, HardDrive } from 'lucide-react';
 import DownloadManager from '../components/offline/DownloadManager';
 import GradientHeader from '../components/ui/GradientHeader';
 

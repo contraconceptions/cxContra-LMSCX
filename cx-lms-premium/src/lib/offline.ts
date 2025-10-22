@@ -1,4 +1,4 @@
-import type { Module, Lesson, LessonSection } from '../content/types';
+import type { Module } from '../content/types';
 
 export interface OfflineModuleData {
   moduleId: string;
