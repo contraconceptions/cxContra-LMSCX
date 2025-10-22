@@ -10,6 +10,7 @@
   NODE_VERSION = "20"
   NODE_ENV = "production"
   CI = "true"
+  NODE_OPTIONS = "--max-old-space-size=4096"
 
 # Redirect rules for SPA routing
 [[redirects]]
