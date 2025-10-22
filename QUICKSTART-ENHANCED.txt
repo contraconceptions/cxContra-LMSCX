@@ -1,0 +1,92 @@
+🎉 CX MASTERCLASS - ENHANCED EDITION
+====================================
+
+✨ NOW WITH 18 LESSONS ACROSS 2 MODULES! ✨
+
+📥 QUICK START (3 STEPS):
+-------------------------
+1. Download these files to the SAME folder:
+   ✓ index-enhanced.html
+   ✓ app-enhanced.js
+   ✓ README-ENHANCED.md (optional docs)
+
+2. Double-click "index-enhanced.html"
+
+3. Start learning! Choose your module and begin.
+
+📚 WHAT'S INCLUDED:
+-------------------
+Module 1: Emotional Intelligence (5 lessons)
+  → The human skills that build connection
+  
+Module 2: Operational Excellence (13 lessons)
+  → The systems and tools for scale
+
+Total: 18 Interactive Lessons = ~10 hours of content
+
+🗺️ NAVIGATION:
+---------------
+→ Module Buttons: Switch between Module 1 & 2
+→ Lesson Map: Click any lesson card to jump to it
+→ Previous/Next: Sequential navigation
+→ Expand Sections: Click headers to reveal content
+→ Mark Complete: Track your progress
+
+💡 PRO TIPS:
+------------
+✓ Start with Module 1 if you're new to CX
+✓ Jump to Module 2 if you need systems/tools training
+✓ Use the journal after EACH lesson
+✓ Revisit lessons anytime for refreshers
+✓ The app works offline after first load!
+
+🎯 LEARNING PATHS:
+------------------
+NEW TO CX: 
+  Start Module 1 → Complete all 5 lessons → 
+  Move to Module 2 → Complete all 13 lessons
+
+EXPERIENCED CX PRO:
+  Jump to specific lessons as needed:
+  - Tough customer? → Module 1, Lessons 2-4
+  - CRM help? → Module 2, Lesson 6
+  - Time management? → Module 2, Lesson 8
+  - Crisis? → Module 2, Lesson 18
+
+MANAGER TRAINING PROGRAM:
+  Week 1-2: Module 1 (EQ)
+  Week 3-5: Module 2 (Operations)
+  Week 6: Review & Apply
+
+📊 TRACK YOUR PROGRESS:
+-----------------------
+You'll see:
+  □ Gray cards = Not started
+  ■ Blue card = Currently viewing
+  ✓ Green card = Completed
+
+Progress bar shows: X/18 lessons (X%)
+
+🏆 When you hit 100%, you get a trophy! 🏆
+
+⚡ TROUBLESHOOTING:
+-------------------
+App won't load?
+→ Make sure index-enhanced.html and app-enhanced.js 
+  are in the SAME folder
+→ Try Chrome, Firefox, or Edge
+→ Check JavaScript is enabled
+
+Content not showing?
+→ Click section headers to expand them
+→ Try refreshing the page
+
+🎓 COMPLETION MILESTONES:
+--------------------------
+🥉 Bronze: Complete Module 1 (5/18)
+🥈 Silver: Complete Module 2 (13/18)
+🥇 Gold: Complete Both (18/18)
+
+Ready to become a CX master? Let's go! 🚀
+
+Open index-enhanced.html to begin your journey!
