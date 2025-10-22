@@ -1,16 +1,15 @@
 [build]
-  # Build command for the React app
-  command = "cd cx-lms-premium && npm run build"
+  # Build command for the Vite React app
+  command = "cd cx-lms-premium && npm ci && npm run build"
   
-  # Directory to publish (the built React app)
+  # Directory to publish (the built Vite app)
   publish = "cx-lms-premium/dist"
-  
-  # Node version for Netlify
-  environment = { NODE_VERSION = "18" }
 
 [build.environment]
-  # Set environment variables if needed
+  # Node version and environment variables
+  NODE_VERSION = "18"
   NODE_ENV = "production"
+  CI = "true"
 
 # Redirect rules for SPA routing
 [[redirects]]
