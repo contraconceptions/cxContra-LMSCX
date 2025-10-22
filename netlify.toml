@@ -7,7 +7,7 @@
 
 [build.environment]
   # Node version and environment variables
-  NODE_VERSION = "18"
+  NODE_VERSION = "20"
   NODE_ENV = "production"
   CI = "true"
 
