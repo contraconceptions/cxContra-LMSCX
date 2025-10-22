@@ -1,24 +1,18 @@
 [build]
-  # Build command for the Vite React app
   command = "cd cx-lms-premium && npm install && npm run build"
-  
-  # Directory to publish (the built Vite app)
   publish = "cx-lms-premium/dist"
 
 [build.environment]
-  # Node version and environment variables
   NODE_VERSION = "20"
   NODE_ENV = "production"
   CI = "true"
   NODE_OPTIONS = "--max-old-space-size=4096"
 
-# Redirect rules for SPA routing
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
 
-# Headers for security and performance
 [[headers]]
   for = "/*"
   [headers.values]
@@ -27,7 +21,6 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
-# Cache static assets
 [[headers]]
   for = "/assets/*"
   [headers.values]
